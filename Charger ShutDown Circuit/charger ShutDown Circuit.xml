@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\ASus\Desktop\kicad proteus projects\Charger ShutDown Circuit\charger ShutDown Circuit.kicad_sch</source>
+    <date>28-10-2023 16:55:17</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>charger ShutDown Circuit.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1359ff60-560a-4bfc-bc8d-83f50515c931</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a933eca8-338e-4a02-aace-3c0ebd47e075</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3ccadc0-216e-4eb3-9295-4b0b43c58203</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92ac5aea-8d76-4afa-9242-bf71647bf80c</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db11bcfe-8dd0-4174-a64a-dc0a4d31a6da</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a27f40ac-05bf-45c7-8b42-8734aabb60e8</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07efe8bd-5a25-4062-a3c2-c6ad727dc21e</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>SRD-12VDC-SL-C</value>
+      <footprint>RELAY_SRD-12VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">Songle Relay</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.8 mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="SRD-12VDC-SL-C" part="SRD-12VDC-SL-C" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="15.8 mm"/>
+      <property name="MANUFACTURER" value="Songle Relay"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a476e49a-8b33-4843-845b-8d7698cc9f47</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>RT44xxxx</value>
+      <footprint>Relay_THT:Relay_DPST_Schrack-RT2-FormA_RM5mm</footprint>
+      <datasheet>http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Data+Sheet%7FRT2%7F1014%7Fpdf%7FEnglish%7FENG_DS_RT2_1014.pdf%7F6-1393243-3</datasheet>
+      <libsource lib="Relay" part="RT44xxxx" description="Schrack RT2 relay, monostable dual pole normally open, DC or AC coil"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Schrack RT2 relay, monostable dual pole normally open, DC or AC coil"/>
+      <property name="ki_keywords" value="TE DPST NO monostable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d0ab893-23cb-4342-b332-0f0ef1ef6caf</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>RT44xxxx</value>
+      <footprint>Relay_THT:Relay_DPST_Schrack-RT2-FormA_RM5mm</footprint>
+      <datasheet>http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Data+Sheet%7FRT2%7F1014%7Fpdf%7FEnglish%7FENG_DS_RT2_1014.pdf%7F6-1393243-3</datasheet>
+      <libsource lib="Relay" part="RT44xxxx" description="Schrack RT2 relay, monostable dual pole normally open, DC or AC coil"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Schrack RT2 relay, monostable dual pole normally open, DC or AC coil"/>
+      <property name="ki_keywords" value="TE DPST NO monostable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>939b553f-53c8-46b3-9aa4-c72d1662df86</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>SRD-12VDC-SL-C</value>
+      <footprint>RELAY_SRD-12VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">Songle Relay</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.8 mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="SRD-12VDC-SL-C" part="SRD-12VDC-SL-C" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="15.8 mm"/>
+      <property name="MANUFACTURER" value="Songle Relay"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9af0edb2-95c2-418c-9cb9-99326b600f73</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel Switching MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ecb2e68-6391-41db-a98d-be7cc8d4975e</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel Switching MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2e6f27a-2071-4c7c-a018-81aeed663793</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9b67451-8150-4d86-a843-a9cdb98f877f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e588201-a160-46e4-a53f-bcf3eb1e243a</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f735063d-a6bb-4076-ab57-5364b251c9fd</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ba19f6d-9eaa-402d-a380-3a285ac9163e</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22838e18-ff3d-471c-ba95-c68893e58601</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2800a5c1-f9c3-4ee7-9496-37b185203d99</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SN74LS32N</value>
+      <footprint>SN74LS32N:DIP794W45P254L1969H508Q14</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SN74LS32N/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+4-ch, 2-input, 4.75-V to 5.25-V bipolar OR gates with TTL-compatible CMOS inputs
+</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">SN74LS32N</field>
+        <field name="Package">PDIP-14 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=44478&amp;manufacturer=Texas Instruments&amp;part_name=SN74LS32N&amp;search_term=sn74ls32</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SN74LS32N/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="SN74LS32N" part="SN74LS32N" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="Description" value="&#xA;4-ch, 2-input, 4.75-V to 5.25-V bipolar OR gates with TTL-compatible CMOS inputs&#xA;"/>
+      <property name="Package" value="PDIP-14 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SN74LS32N/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="SN74LS32N"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=44478&amp;manufacturer=Texas Instruments&amp;part_name=SN74LS32N&amp;search_term=sn74ls32"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SN74LS32N/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4706a37-8f89-4bb5-ba55-e2ca09ebfddd</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>L7805</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="charger ShutDown Circuit.kicad_sch"/>
+      <property name="ki_description" value="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="ki_keywords" value="Voltage Regulator 1.5A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29467a34-059b-44ba-82e7-0e689e387ffb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay" part="RT44xxxx">
+      <description>Schrack RT2 relay, monostable dual pole normally open, DC or AC coil</description>
+      <docs>http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Data+Sheet%7FRT2%7F1014%7Fpdf%7FEnglish%7FENG_DS_RT2_1014.pdf%7F6-1393243-3</docs>
+      <footprints>
+        <fp>Relay*DPST*RT2*FormA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">RT44xxxx</field>
+        <field name="Footprint">Relay_THT:Relay_DPST_Schrack-RT2-FormA_RM5mm</field>
+        <field name="Datasheet">http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Data+Sheet%7FRT2%7F1014%7Fpdf%7FEnglish%7FENG_DS_RT2_1014.pdf%7F6-1393243-3</field>
+      </fields>
+      <pins>
+        <pin num="11" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="21" name="" type="passive"/>
+        <pin num="24" name="" type="passive"/>
+        <pin num="A1" name="" type="passive"/>
+        <pin num="A2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SN74LS32N" part="SN74LS32N">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LS32N</field>
+        <field name="Footprint">SN74LS32N:DIP794W45P254L1969H508Q14</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description">
+4-ch, 2-input, 4.75-V to 5.25-V bipolar OR gates with TTL-compatible CMOS inputs
+</field>
+        <field name="Package">PDIP-14 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SN74LS32N/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">SN74LS32N</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=44478&amp;manufacturer=Texas Instruments&amp;part_name=SN74LS32N&amp;search_term=sn74ls32</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SN74LS32N/Texas+Instruments/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1B" type="input"/>
+        <pin num="3" name="1Y" type="output"/>
+        <pin num="4" name="2A" type="input"/>
+        <pin num="5" name="2B" type="input"/>
+        <pin num="6" name="2Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="output"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="3B" type="input"/>
+        <pin num="11" name="4Y" type="output"/>
+        <pin num="12" name="4A" type="input"/>
+        <pin num="13" name="4B" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SRD-12VDC-SL-C" part="SRD-12VDC-SL-C">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">SRD-12VDC-SL-C</field>
+        <field name="Footprint">RELAY_SRD-12VDC-SL-C</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.8 mm</field>
+        <field name="MANUFACTURER">Songle Relay</field>
+      </fields>
+      <pins>
+        <pin num="COIL1" name="" type="passive"/>
+        <pin num="COIL2" name="" type="passive"/>
+        <pin num="COM" name="" type="passive"/>
+        <pin num="NC" name="" type="passive"/>
+        <pin num="NO" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="2N7002">
+      <description>0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Relay">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Relay.kicad_sym</uri>
+    </library>
+    <library logical="SN74LS32N">
+      <uri>C:/Users/ASus/Downloads/SN74LS32N/SN74LS32N.kicad_sym</uri>
+    </library>
+    <library logical="SRD-12VDC-SL-C">
+      <uri>C:/Users/ASus/Downloads/SRD-12VDC-SL-C/SRD-12VDC-SL-C.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="AMS Fault">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="3" name="AMS In">
+      <node ref="K2" pin="24" pintype="passive"/>
+      <node ref="K4" pin="21" pintype="passive"/>
+    </net>
+    <net code="4" name="Aux Battery in">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K2" pin="A1" pintype="passive"/>
+      <node ref="K4" pin="A1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="5" name="BMS1">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="6" name="BMS2">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="1B" pintype="input"/>
+    </net>
+    <net code="7" name="BMS3">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="8" name="BMS4">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="2B" pintype="input"/>
+    </net>
+    <net code="9" name="CSDC+">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K4" pin="24" pintype="passive"/>
+    </net>
+    <net code="10" name="CSDC-">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="COIL1" pintype="passive"/>
+      <node ref="K5" pin="COIL1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="11" name="IMD Fault">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="IMD In">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K2" pin="21" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(K1-PadCOIL2)">
+      <node ref="K1" pin="COIL2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(K1-PadCOM)">
+      <node ref="K1" pin="COM" pintype="passive"/>
+      <node ref="K4" pin="11" pintype="passive"/>
+      <node ref="K4" pin="A2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(K2-Pad11)">
+      <node ref="K2" pin="11" pintype="passive"/>
+      <node ref="K2" pin="A2" pintype="passive"/>
+      <node ref="K5" pin="COM" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(K5-PadCOIL2)">
+      <node ref="K5" pin="COIL2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(Q1-D)">
+      <node ref="K2" pin="14" pintype="passive"/>
+      <node ref="K5" pin="NO" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q2-D)">
+      <node ref="K1" pin="NO" pintype="passive"/>
+      <node ref="K4" pin="14" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q2-G)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="out1">
+      <node ref="U1" pin="13" pinfunction="4B" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="22" name="out2">
+      <node ref="U1" pin="12" pinfunction="4A" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="23" name="reset">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(J5-Pin_2-Pad2)">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(K1-PadNC)">
+      <node ref="K1" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(K5-PadNC)">
+      <node ref="K5" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U1-3A-Pad9)">
+      <node ref="U1" pin="9" pinfunction="3A" pintype="input+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U1-3B-Pad10)">
+      <node ref="U1" pin="10" pinfunction="3B" pintype="input+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U1-3Y-Pad8)">
+      <node ref="U1" pin="8" pinfunction="3Y" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>

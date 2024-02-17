@@ -1,0 +1,31 @@
+Drill report for Shutdown Circuit.kicad_pcb
+Created on 10-01-2024 23:36:57
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Shutdown Circuit-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (9 holes)
+    T2  0.770mm  0.0303"  (14 holes)
+    T3  0.800mm  0.0315"  (34 holes)
+    T4  1.000mm  0.0394"  (4 holes)
+    T5  1.050mm  0.0413"  (10 holes)
+    T6  1.100mm  0.0433"  (27 holes)
+    T7  1.200mm  0.0472"  (6 holes)
+    T8  1.300mm  0.0512"  (31 holes)
+    T9  1.500mm  0.0591"  (24 holes)
+
+    Total plated holes count 159
+
+
+Drill file 'Shutdown Circuit-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.500mm  0.1378"  (4 holes)
+
+    Total unplated holes count 4
